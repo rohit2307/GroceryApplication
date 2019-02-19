@@ -1,0 +1,3 @@
+com\grocery\app\model\ShoppingList.class
+com\grocery\app\controller\ShoppingListController.class
+com\grocery\app\GroceryApiApplication.class
